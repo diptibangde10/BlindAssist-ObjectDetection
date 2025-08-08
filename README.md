@@ -23,9 +23,9 @@ It is designed to help visually impaired individuals navigate their surroundings
 
 ## 📥 Installation
 1. **Check Python version** (must be 3.8 or greater):
-   ```bash
+```bash
    python --version
-   
+``` 
 2. **Clone this repository:**
 ```bash
 git clone https://github.com/diptibangde10/BlindAssist-ObjectDetection.git
@@ -66,9 +66,11 @@ python myproject.py
 3. Detected object names are displayed on the screen and spoken aloud using text-to-speech.
 
 ## 📌 Example Output
-When the camera detects a chair:<img width="330" height="371" alt="chair" src="https://github.com/user-attachments/assets/068740c6-89db-4734-9ad3-d54e3167f042" />
-```bash
+When the camera detects a chair:
 
+<img width="330" height="371" alt="chair" src="https://github.com/user-attachments/assets/068740c6-89db-4734-9ad3-d54e3167f042" />
+
+```bash
 Detected: CHAIR
 Voice Output: "chair"
 ```
@@ -81,3 +83,4 @@ This project is open source under the MIT License.
 
 ## 🔖 Tags
 `blindassist` `object-detection` `opencv` `python` `ai` `computer-vision` `assistive-technology` `accessibility` `voice-output` `blind-assistance`
+
